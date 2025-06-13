@@ -1,3 +1,12 @@
+# Insel-Abenteuer Deluxe v1.0
+# designed by:
+#   ██████  ██       ██  ██    ██ ███████ ██████  
+#  ██    ██ ██       ██  ██    ██ ██      ██   ██ 
+#  ██    ██ ██       ██  ██    ██ █████   ██████  
+#  ██    ██ ██       ██   ██  ██  ██      ██   ██ 
+#   ██████  ███████  ██    ████   ███████ ██   ██ 
+# (c) 2025 by oliver@devtron.pro
+
 """
 INSELABENTEUER DELUXE: Ein interaktives Lernspiel für Kinder
 Mit Tkinter-GUI für ein kinderfreundliches Interface
